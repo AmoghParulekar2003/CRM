@@ -75,4 +75,3 @@ I know this is not much of a project, but I got to learn the CRUD operations in 
 
 ---
 
-Feel free to modify the instructions and examples based on your actual project setup and requirements.
